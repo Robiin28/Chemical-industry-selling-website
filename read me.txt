@@ -1,0 +1,20 @@
+******* ASAX COMPANY Developed 2023 january **********
+Requirment 
+... need php running apk (recomended xamp or wamp)..
+steps
+>>>create database called asax-company
+>>>open xamp and open new created database ...
+>>>import all table ,  found in mysql folder and import all table
+>>>done run now you geet copy of website ,
+    start your xamp apache and mysql
+    run localhost/asax company
+                ......now website will be opened
+>>>  To access admin panal 
+
+       >>>> open website 
+               .....go to contact us 
+               .....in left side there is side bar ..admin
+               .....username....admin(***i us hashing to ncrypt so u cant add new user normally ******)
+                       ...password ...admin
+                        can giv new pasword in setting
+                           ..done..
